@@ -46,28 +46,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\class\\InventoryManagementSystem\\InventoryManagementSystem\\Program.cs",
-              "RelativeDocumentMoniker": "InventoryManagementSystem\\Program.cs",
-              "ToolTip": "D:\\class\\InventoryManagementSystem\\InventoryManagementSystem\\Program.cs",
-              "RelativeToolTip": "InventoryManagementSystem\\Program.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAwwA8AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T19:03:59.383Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "MainForm.Designer.cs",
               "DocumentMoniker": "D:\\class\\InventoryManagementSystem\\InventoryManagementSystem\\MainForm.Designer.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\MainForm.Designer.cs",
-              "ToolTip": "D:\\class\\InventoryManagementSystem\\InventoryManagementSystem\\MainForm.Designer.cs*",
-              "RelativeToolTip": "InventoryManagementSystem\\MainForm.Designer.cs*",
+              "ToolTip": "D:\\class\\InventoryManagementSystem\\InventoryManagementSystem\\MainForm.Designer.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\MainForm.Designer.cs",
               "ViewState": "AQIAAGIAAAAAAAAAAAAwwGsAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T18:41:21.704Z",
@@ -90,8 +78,8 @@
               "Title": "MainForm.cs",
               "DocumentMoniker": "D:\\class\\InventoryManagementSystem\\InventoryManagementSystem\\MainForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\MainForm.cs",
-              "ToolTip": "D:\\class\\InventoryManagementSystem\\InventoryManagementSystem\\MainForm.cs*",
-              "RelativeToolTip": "InventoryManagementSystem\\MainForm.cs*",
+              "ToolTip": "D:\\class\\InventoryManagementSystem\\InventoryManagementSystem\\MainForm.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\MainForm.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAwwBEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T05:56:00.869Z",
@@ -103,11 +91,23 @@
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "D:\\class\\InventoryManagementSystem\\InventoryManagementSystem\\MainForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\MainForm.cs",
-              "ToolTip": "D:\\class\\InventoryManagementSystem\\InventoryManagementSystem\\MainForm.cs [Design]*",
-              "RelativeToolTip": "InventoryManagementSystem\\MainForm.cs [Design]*",
+              "ToolTip": "D:\\class\\InventoryManagementSystem\\InventoryManagementSystem\\MainForm.cs [Design]",
+              "RelativeToolTip": "InventoryManagementSystem\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T05:54:43.073Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\class\\InventoryManagementSystem\\InventoryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Program.cs",
+              "ToolTip": "D:\\class\\InventoryManagementSystem\\InventoryManagementSystem\\Program.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAwwA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T19:03:59.383Z"
             },
             {
               "$type": "Document",
