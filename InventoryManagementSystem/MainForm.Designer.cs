@@ -1,5 +1,6 @@
 ﻿namespace InventoryManagementSystem
 {
+    // Hi! Awais I'm watching your code. Your hardwork is presenting itself but Sir Qamar is expecting more Idk what he want but yes it is
     partial class MainForm
     {
         /// <summary>
