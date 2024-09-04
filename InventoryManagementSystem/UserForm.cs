@@ -32,7 +32,7 @@ namespace InventoryManagementSystem
             while (dr.Read())
             {
                 i++;
-                dgvUser.Rows.Add(i,dr[0].ToString(), dr[1].ToString(), dr[2].ToString(), dr[3].ToString());
+                dgvUser.Rows.Add(i, dr[0].ToString(), dr[1].ToString(), dr[2].ToString(), dr[3].ToString());
             }
             dr.Close();
             con.Close();
@@ -44,6 +44,7 @@ namespace InventoryManagementSystem
             userModule.btnSave.Enabled = true;
             userModule.btnUpdate.Enabled = false;
             userModule.ShowDialog();
+            LoadUser();
         }
         private void dgvUser_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
@@ -75,6 +76,16 @@ namespace InventoryManagementSystem
                 }
             }
             LoadUser();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void flowLayoutPanel2_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }
